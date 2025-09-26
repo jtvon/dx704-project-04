@@ -1,0 +1,4 @@
+Acknowledgments:
+I'd like to acknowledge my peers for their support and engagement on piazza, their conversations were helpful in debugging errors with the autograder
+I'd also like to acknowledge Professor Considine for his video lectures, content on blackboard, and the example notebooks.
+Finally, I'd like to acknowledge ChatGPT for helping me debug some of my code and providing suggestions on how to implement certain algorithms.
